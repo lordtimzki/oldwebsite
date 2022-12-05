@@ -24,5 +24,7 @@ body {
 @font-face {
     font-family: Byker;
     src: url("https://use.typekit.net/nuq3qmj.css")
+        format('ttf')
+
 }
 
