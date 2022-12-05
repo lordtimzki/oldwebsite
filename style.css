@@ -2,9 +2,6 @@ html {
     text-align: center;
 }
 body {
-    font-family: fot-matisse-pron, sans-serif;
-    font-weight: 500;
-    font-style: normal;
     background-color: beige;
     format('truetype')
 }
@@ -17,4 +14,9 @@ body {
 
 .socials {
     height: 30px;
+}
+
+@font-face {
+    font-family: "FOT-Chiaro Std";
+    format('truetype')
 }
