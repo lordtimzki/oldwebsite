@@ -21,3 +21,8 @@ body {
     font-weight: lighter;
 }
 
+@font-face {
+    font-family: Byker;
+    src: url("https://use.typekit.net/nuq3qmj.css")
+}
+
