@@ -1,0 +1,17 @@
+html {
+    text-align: center;
+}
+body {
+    font-family: "FOT-Chiaro Std";
+    background-color: beige;
+}
+
+#Neko {
+    height: 200px;
+    border: solid;
+    padding: 10px;
+}
+
+.socials {
+    height: 30px;
+}
