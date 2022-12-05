@@ -2,7 +2,9 @@ html {
     text-align: center;
 }
 body {
-    font-family: "FOT-Chiaro Std";
+    font-family: fot-matisse-pron, sans-serif;
+    font-weight: 500;
+    font-style: normal;
     background-color: beige;
 }
 
