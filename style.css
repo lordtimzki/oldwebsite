@@ -1,5 +1,6 @@
 html {
     text-align: center;
+    font-family: Byker, sans-serif;
 }
 body {
     background-color: beige;
@@ -16,7 +17,7 @@ body {
     height: 30px;
 }
 
-@font-face {
-    font-family: "FOT-Chiaro Std";
-    format('truetype')
+#Header {
+    font-weight: lighter;
 }
+
