@@ -7,9 +7,10 @@
 
 nav {
   margin: auto;
-  width: 60%;
+  width: 30%;
   border: 1px solid white;
   padding: 10px;
+  text-align: center;
 }
 nav .nav-text {
   text-align: center;
